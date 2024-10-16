@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/anuska-kuila-557528285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuska-kuila-557528285" height="30" width="40" /></a>
 <a href="https://instagram.com/a_n_u_s_k_a_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_n_u_s_k_a_2003" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anuska kuila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anuska kuila" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/anuskakuila4177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anuska kuila" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user0557n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0557n" height="30" width="40" /></a>
 </p>
 
